@@ -100,17 +100,7 @@ class CodeTypingBot:
 
     def selectApi(self):
         api_keys = [
-        "AIzaSyAw23UnQp7oeB1Vb59lemBDrijKJ7u5Wjs",
-        "AIzaSyCSEKWaJY5HTnvHpOIbT6wIEHWSsM1QxKY",
-        "AIzaSyDthrXP31VokN1ujcSTaY_gye8VORYrzkY",
-        "AIzaSyDtHLa61-1APKuCHTbFifpURf5nZ5wpMvM",
-        "AIzaSyCJLXra8h4cMU9Ig_JH4_UIApmynRcCehQ",
-        "AIzaSyDLr76JmsNpObnJ5R1BgjTy8ZVr7lUvq3M",
-        "AIzaSyD1Vx-cWXozdUdq82B2L2OhHNCIaQrRvzw",
-        "AIzaSyBFz5_rw43RviSZbWo8ieoi83NNTKKZOAQ",
-        "AIzaSyC-qZ7V428exKyz_Jx-7YwHAIivKBgOIJQ",
-        "AIzaSyCkg1a2uUEj6VVW9-5wZXHqLpQI1_2Xtuo",
-        "AIzaSyAtMoyq7iuecANHKZcGp3mD4HLnzdWw6pU"
+       "YOUR API KEYS HERE"
     ]
         return random.choice(api_keys)
 
